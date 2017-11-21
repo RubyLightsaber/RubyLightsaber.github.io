@@ -4,8 +4,6 @@
 
 ![RubyLightsaber-01](images/rubylightsaber-01.png "RubyLightsaber-01")
 
-![RubyLightsaber-02](images/rubylightsaber-02.png "RubyLightsaber-02")
-
 ![RubyLightsaber-03](images/rubylightsaber-03.png "RubyLightsaber-03")
 
 ![RubyLightsaber-04](images/rubylightsaber-04.png "RubyLightsaber-04")
@@ -16,6 +14,6 @@
 
 ![RubyLightsaber-07](images/rubylightsaber-07.png "RubyLightsaber-07")
 
-![RubyLightsaber-08](images/rubylightsaber-08.png "RubyLightsaber-08") 
+![RubyLightsaber-08](images/rubylightsaber-08.png "RubyLightsaber-08")
 
 ### A Ruby website is brewing...
