@@ -3,7 +3,7 @@
  */
 .site-header {
     border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-bottom: 5px solid $grey-color-dark;
     min-height: 56px;
     background-color: #d60013;
     // Positioning context for the mobile navigation icon
@@ -266,3 +266,8 @@ pre, .footer-col p {
 }
 
 .rss-subscribe { margin-top: 20px;}
+
+.logo {
+    float: left;
+    margin-right: 12px;
+}
