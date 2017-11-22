@@ -100,8 +100,14 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: 5px solid $grey-color-dark;
     padding: $spacing-unit 0;
+    background-color: $red-color;
+
+    &,
+    a {
+        color: white;
+    }
 }
 
 .footer-heading {
@@ -123,8 +129,6 @@
     @extend %clearfix;
 
 }
-
-body { background-color: white;}
 
 .footer-col {
     float: left;
@@ -181,7 +185,7 @@ pre, .footer-col p {
  */
 .page-content {
     padding: $spacing-unit 0;
-
+    background-color: white;
 }
 
 
