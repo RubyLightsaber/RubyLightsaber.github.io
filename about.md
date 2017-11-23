@@ -16,6 +16,7 @@ This website is built with the following technologies:
 - [Ruby](https://www.ruby-lang.org){:target="_blank"}{:rel="noopener"}
 - [RubyMine](https://www.jetbrains.com/ruby){:target="_blank"}{:rel="noopener"}
 - [Jekyll](https://jekyllrb.com){:target="_blank"}{:rel="noopener"}
+- [Minima](https://github.com/jekyll/minima){:target="_blank"}{:rel="noopener"}
 - [kramdown](https://kramdown.gettalong.org/){:target="_blank"}{:rel="noopener"}
 - [Markdown](https://daringfireball.net/projects/markdown){:target="_blank"}{:rel="noopener"}  
 - [Sass](http://sass-lang.com){:target="_blank"}{:rel="noopener"}
