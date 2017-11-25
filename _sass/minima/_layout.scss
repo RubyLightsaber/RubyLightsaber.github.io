@@ -105,13 +105,11 @@
     border-top: 5px solid $grey-color-dark;
     padding: $spacing-unit 0;
     background-color: $red-color;
-
+    font-weight: bold;
     &,
     a {
-        color: $theme-color
-    }
-    p strong {
         color: $theme-color;
+        font-weight: bold;
     }
 }
 
@@ -146,7 +144,7 @@
     margin-left: 5px;
     margin-right: 5px;
     background-color: $green-color;
-    border: 5px solid $theme-color;
+    border: 5px solid $grey-color-dark;
     border-radius: 20px;
     padding: 5px;
 }
@@ -157,7 +155,7 @@
     margin-left: 5px;
     margin-right: 5px;
     background-color: $green-color;
-    border: 5px solid $theme-color;
+    border: 5px solid $grey-color-dark;
     border-radius: 20px;
     padding: 5px;
 }
@@ -274,12 +272,6 @@ pre, .footer-col p {
     }
 }
 
-.thebeast {
-  margin: 12px 15px 9px 0px;
-  border-radius: 5px;
-  float: left;
-  max-width: 250px;
-}
 .social-media-list a {
   font-size: 16pt
 }
@@ -290,3 +282,5 @@ pre, .footer-col p {
     float: left;
     margin-right: 12px;
 }
+
+#flagcounter { border: 5px solid $grey-color-dark; border-radius: 15px;}
