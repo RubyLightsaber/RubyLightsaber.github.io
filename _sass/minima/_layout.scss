@@ -108,7 +108,10 @@
 
     &,
     a {
-        color: white;
+        color: $theme-color
+    }
+    p strong {
+        color: $theme-color;
     }
 }
 
@@ -146,7 +149,11 @@
 .footer-col-2 {
     width: -webkit-calc(40% - (#{$spacing-unit} / 2));
     width:         calc(40% - (#{$spacing-unit} / 2));
-    margin-left: 15px;
+    margin-left: 5px;
+    background-color: $green-color;
+    border: 5px solid $theme-color;
+    border-radius: 5px;
+    padding: 5px;
 }
 
 
