@@ -6,9 +6,6 @@ permalink: /about/
 
 Ruby and Star Wars themed website with a blog and a Logo Hall of Fame being built.
 
-The current website graphics have been created generously by [Felipe J](https://github.com/Felipe-J){:target="_blank"}{:rel="noopener"} 
-and [Harley Armentrout](https://github.com/grfxwzdesigner){:target="_blank"}{:rel="noopener"}.
-
 We are accepting original logo designs for our websites Logo Hall of Fame and featured images to be displayed around the website.
 
 This website is built with the following technologies:
