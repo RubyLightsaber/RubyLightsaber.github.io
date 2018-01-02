@@ -27,3 +27,4 @@ This website is built with the following technologies:
 - [YAML](http://yaml.org/){:target="_blank"}{:rel="noopener"}
 - [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics){:target="_blank"}{:rel="noopener"}
 - [FLAG COUNTER](https://flagcounter.com/){:target="_blank"}{:rel="noopener"}
+- [Unofficial github:buttons](https://github.com/ntkme/github-buttons){:target="_blank"}{:rel="noopener"}
